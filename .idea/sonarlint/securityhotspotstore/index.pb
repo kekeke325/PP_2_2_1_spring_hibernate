@@ -21,3 +21,5 @@ l
 <2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java,8\6\86293f30ec2cba658cc0ea132d3c3f834b19757d
 t
 D2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java,2\8\28ca2f080bd442bd90d472c2c47d0445a3f81215
+P
+ src/main/java/hiber/MainApp.java,2\c\2c1e35afd9fec02986d82775813f89ba1bc8f415
